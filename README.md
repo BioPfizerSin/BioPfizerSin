@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bryan
+# Hi there! 👋 I'm BioPfizer
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bryanswx/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/BioPfizerSin)
